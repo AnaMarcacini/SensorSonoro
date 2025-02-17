@@ -1,5 +1,3 @@
-# SensorSonoro
-
 # Projeto Sonômetro com ESP32 e Sensor SPH0645
 
 Este projeto consiste em um sonômetro (medidor de nível de ruído) utilizando um ESP32, um sensor de áudio SPH0645 e um display LCD I2C. O dispositivo mede o nível de ruído em decibéis (dB) e exibe os resultados no LCD, além de enviar os dados para a plataforma ThingSpeak para monitoramento remoto. O projeto inclui hardware, software e modelagem 3D para as peças impressas em 3D.
@@ -40,7 +38,6 @@ Disponivel em
 
 - IDE do Arduino.
 - Biblioteca LiquidCrystal_I2C.
-- Biblioteca WiFi.
 - Biblioteca ThingSpeak.
 - Impressora 3D para as peças personalizadas.
 
