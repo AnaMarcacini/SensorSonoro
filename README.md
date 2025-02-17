@@ -5,9 +5,14 @@
 Este projeto consiste em um sonômetro (medidor de nível de ruído) utilizando um ESP32, um sensor de áudio SPH0645 e um display LCD I2C. O dispositivo mede o nível de ruído em decibéis (dB) e exibe os resultados no LCD, além de enviar os dados para a plataforma ThingSpeak para monitoramento remoto. O projeto inclui hardware, software e modelagem 3D para as peças impressas em 3D.
 
 <div align="right">
-<a href="https://anamarcacini.github.io/SensorSonoro/Eng_Comp_IMT_2025.pdf" style="display: inline-block; padding: 10px 20px; background-color: #ff4d4d; color: white; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); display:right">
-  📥 Baixar PDF
+<a href="https://anamarcacini.github.io/SensorSonoro/Eng_Comp_IMT_2025.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #ff4d4d; color: white; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); display:right">
+  👀 Acessar PDF
 </a>
+</div>
+<div align="right">
+  <a href="https://anamarcacini.github.io/SensorSonoro/Eng_Comp_IMT_2025.pdf" download style="display: inline-block; padding: 10px 20px; background-color: #ff4d4d; color: white; text-decoration: none; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); transition: background-color 0.3s ease;">
+    📥 Baixar PDF
+  </a>
 </div>
 ## Descrição do Projeto
 
